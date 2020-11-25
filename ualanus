@@ -1,0 +1,39 @@
+html>
+
+<head>
+	<link rel="stylesheet" href="style.css">
+	<title>ufc info</title>
+</head>
+
+<body>
+	<main>
+		<header>
+			<h1 id="hoofdtitel" class="belangrijk">UFC </h1>
+		</header>
+
+		<nav>
+			<ul>
+				<li><a class="active" href="index.html">beginpagina</a></li>
+				<li><a href="over ufc.html">over ufc</a></li>
+				<li><a href="info.html">Informatie</a></li>
+				<li><a href="vechters.html">Bekende vechters</a></li>
+        <li><a href="historie.html">historie bedrijf</a></li>
+			</ul>
+		</nav>
+
+		<article>
+			<p><img class="zweefLinks" src="ufc logo.jpg">
+                <a href="http://ufc.com">website bedrijf</a> hier komt alle begin dingen zoals logo etc en alle andere bs
+            </article>
+        
+            <footer>
+                <hr/>
+                <p>voor info 112335@emmauscollege.nl</p>
+                <p class="smalltext">copyright A.DALAMA 2020</p>
+            </footer>
+        
+        </main>
+    
+    </body>
+
+</html>
