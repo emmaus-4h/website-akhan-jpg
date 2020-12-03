@@ -63,6 +63,8 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
+    margin-left: auto;
+    margin-right: auto;
   
     overflow: hidden;
 }
