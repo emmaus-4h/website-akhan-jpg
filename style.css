@@ -1,10 +1,10 @@
 /* Basislayout */
 
 body {
-  background-image: url("dc.jpg");
+  background-image: url("body_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 3000px
+  background-size: 2300px
 }
 
 
@@ -17,6 +17,7 @@ main {
 
 article {
     text-align: justify;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -75,7 +76,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: rgb(240, 6, 6);
+    color: rgb(255, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -91,7 +92,7 @@ nav li a.active {
 
 #hoi {
   height: 200px;
-  float: left 
+  float: left ;
 }
 
 
