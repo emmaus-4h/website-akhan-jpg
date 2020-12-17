@@ -1,10 +1,10 @@
 /* Basislayout */
 
 body {
-  background-image: url("body_bg.jpg");
+  background-image: url("wit.jpg");
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: 2300px
+  background-position: ;
+  background-size: 600px;
 }
 
 
@@ -17,12 +17,12 @@ main {
 
 article {
     text-align: justify;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 
 header {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
